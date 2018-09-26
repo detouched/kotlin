@@ -1,5 +1,7 @@
 # Kotlin Programming Language
 
+Тут был Даня и рассказывал Лёше про Git.
+
 Welcome to [Kotlin](http://www.jetbrains.com/kotlin)! Some handy links:
 
  * [Getting Started Guide](http://confluence.jetbrains.net/display/Kotlin/Getting+Started)
